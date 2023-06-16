@@ -1,1 +1,2 @@
-# library-management-sys
+"# library-management-sys"  git init git add README.md git commit -m "first commit" git branch -M main git remote add origin git@github.com:mahmoudgamal061/library-management-sys.git git push -u origin main
+"# library-management-sys"  git init git add README.md git commit -m "first commit" git branch -M main git remote add origin git@github.com:mahmoudgamal061/library-management-sys.git git push -u origin main
